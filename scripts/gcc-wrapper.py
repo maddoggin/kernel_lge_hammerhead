@@ -41,6 +41,7 @@ import subprocess
 
 allowed_warnings = set([
     "return_address.c:62",
+    "nl80211.c:5444",
  ])
 
 # Capture the name of the object file, can find it.
